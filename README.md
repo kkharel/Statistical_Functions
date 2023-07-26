@@ -1,3 +1,1 @@
-# Statistical_Functions
-
-# Contains statistics fundamentals reviews
+# Contains statistics fundamentals reviews 
